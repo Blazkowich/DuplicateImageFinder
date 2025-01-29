@@ -1,5 +1,8 @@
 # Duplicate Image Finder
 
+<!-- Centered image -->
+![Duplicate](assets/duplicate_detected.png#center)
+
 ## Overview
 
 This project is a Python-based tool that detects duplicate images in a given folder using both visual similarity and text extraction. It utilizes OpenCV for image processing and Tesseract OCR for text recognition.
